@@ -910,3 +910,7 @@ Me: Full Stackoverflow
 
 #### What is a computer's favorite beat?
 Answer: An algo-rhythm
+
+***
+Why do programmers mix up Xmas with Halloween? Because Dec 25 = Oct 31
+***
